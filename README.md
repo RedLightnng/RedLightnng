@@ -17,13 +17,13 @@ Usually fooling around ඞ
 
 ### Talk with me!
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yogya-bansal-087a8b255/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yogya-bansal-087a8b255/#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/yogya-bansal-087a8b255/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/yogya-bansal-087a8b255/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/yogya.exe?igshid=ZDdkNTZiNTM=/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/yogya.exe?igshid=ZDdkNTZiNTM=/#gh-dark-mode-only)
+[![website](./instagram-light.svg)](https://instagram.com/yogya.exe?igshid=ZDdkNTZiNTM=/#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://instagram.com/yogya.exe?igshid=ZDdkNTZiNTM=/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/hackerrank.svg)](https://www.hackerrank.com/yogyabansal8)
+[![website](./hackerrank.svg)](https://www.hackerrank.com/yogyabansal8)
 &nbsp;&nbsp;
 
 ### Tools and languages at my disposal
