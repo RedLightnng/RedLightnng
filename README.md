@@ -17,14 +17,13 @@ Usually fooling around ඞ
 
 ### Talk with me!
 
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/yogya-bansal-087a8b255/#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/yogya-bansal-087a8b255/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/yogya.exe?igshid=ZDdkNTZiNTM=/#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/yogya.exe?igshid=ZDdkNTZiNTM=/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./hackerrank.svg)](https://www.hackerrank.com/yogyabansal8)
-&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/yogya-bansal-087a8b255/"><img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" style="padding-right:10px;" />
+
+<a href = "https://instagram.com/yogya.exe?igshid=ZDdkNTZiNTM=/"><img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" style="padding-right:10px;" />
+
+<a href = "https://www.hackerrank.com/yogyabansal8"><img align="left" alt="Hackerrank" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" style="padding-right:10px;" />
+<br />
+<br />
 
 ### Tools and languages at my disposal
 
@@ -47,5 +46,4 @@ Usually fooling around ඞ
   <summary>⚡ GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RedLightnng&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </details>
