@@ -1,6 +1,6 @@
 # Hi there, I'm Yogya - aka RedLightnng 👋
 
-## I'm a rookie gamer, full stack developer and aspiring game developer
+## I'm a rookie gamer, full stack developer and aspiring app developer
 
 - 🌱 Currently learning how to live happily
 - 👨🏽‍🎓 Happily looking for collaborations with other developers!
