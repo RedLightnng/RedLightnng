@@ -7,7 +7,7 @@
 - 🥅 Goal for now: Learn Java & Javascript
 - ⚡ Fun fact: I love to play the guitar and read books! (some coding too)
 
-I am an 18 year old CS Student trying to get by. I am also aspiring to be a full stack developer along with graphic designing and game dev, my hobbies include reading books, playing guitar, coding, playing games, learning new things!<br/>
+I am an 19 year old CS Student trying to get by. I am also aspiring to be a full stack developer along with graphic designing and game dev, my hobbies include reading books, playing guitar, coding, playing games, learning new things!<br/>
 Currently juggling multiple projects
 
 Usually fooling around ඞ
