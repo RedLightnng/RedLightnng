@@ -1,13 +1,14 @@
-# Hi there, I'm Yogya - aka RedLightnng 👋
+# Hi there, I'm Yogya/RedLightnng 👋
 
-## I'm a rookie gamer, full stack developer and aspiring app developer
+## App developer, ML ~~developer~~, Video games enjoyer
 
 - 🌱 Currently learning how to live happily
 - 👨🏽‍🎓 Happily looking for collaborations with other developers!
-- 🥅 Goal for now: Learn Java & Javascript
-- ⚡ Fun fact: I love to play the guitar and read books! (some coding too)
+- 🥅 Goal for now: Learn Neural Networks
+- 😔 Engineering : 1  &emsp;  Red : 0 
 
-I am an 19 year old CS Student trying to get by. I am also aspiring to be a full stack developer along with graphic designing and game dev, my hobbies include reading books, playing guitar, coding, playing games, learning new things!<br/>
+I'm a 19 year old CS Student trying to get by.
+Machine learning has got me acting up right now<br/>
 Currently juggling multiple projects
 
 Usually fooling around ඞ
