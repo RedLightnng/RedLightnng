@@ -42,7 +42,6 @@ Usually fooling around ඞ
 <br />
 
 ---
-
 <details>
   <summary>⚡ GitHub Stats</summary>
 
