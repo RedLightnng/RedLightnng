@@ -1,6 +1,4 @@
-# Hi there, I'm Yogya/RedLightnng 👋
-
-## App developer, ML ~~developer~~, Video games enjoyer
+# App developer, ML ~~developer~~, Video games enjoyer
 
 - 🌱 Currently learning how to live happily
 - 👨🏽‍🎓 Happily looking for collaborations with other developers!
