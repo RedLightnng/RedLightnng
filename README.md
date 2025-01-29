@@ -1,5 +1,6 @@
 # App developer, ML ~~developer~~, Video games enjoyer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RedLightnng-2&label=Profile%20views&color=0e75b6&style=flat" alt="RedLightnng-2" /> </p>
 - 🌱 Currently learning how to live happily
 - 👨🏽‍🎓 Happily looking for collaborations with other developers!
 - 🥅 Goal for now: Learn Neural Networks
