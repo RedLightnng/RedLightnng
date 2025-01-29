@@ -1,10 +1,13 @@
 # App developer, ML ~~developer~~, Video games enjoyer
 
 <img src="https://img.shields.io/badge/Profile%20views-OVER 9000!!!-0e75b6" alt="Profile Views Badge" />
+
+---
+
 - 🌱 Currently learning how to live happily
 - 👨🏽‍🎓 Happily looking for collaborations with other developers!
 - 🥅 Goal for now: Learn Neural Networks
-- 😔 Engineering : 1  &emsp;  Red : 0 
+- 😔 Engineering : 1 &emsp; Red : 0 
 
 I'm a 19 year old CS Student trying to get by.
 Machine learning has got me acting up right now<br/>
